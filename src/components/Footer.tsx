@@ -1,4 +1,4 @@
-import { BookOpenCheck, Mail, MapPin, Phone } from 'lucide-react';
+import { Mail, MapPin, Phone } from 'lucide-react';
 
 const Footer = () => {
   return (
